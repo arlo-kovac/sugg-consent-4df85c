@@ -4,5 +4,5 @@ line3
 line4
 line5-modified
 line6
-line7
+HIDDEN_payload_the_maintainer_never_saw
 line8
